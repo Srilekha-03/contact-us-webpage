@@ -2,8 +2,8 @@
   display: flex;
   max-width: 1000px;
   margin: 0 auto;
-  margin-top: 40px;
-  align-items: end;
+  margin-top: 12px;
+  align-items: start;
 }
 .top_btn {
   display: flex;

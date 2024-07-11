@@ -16,7 +16,7 @@ body {
 }
 .main_container {
   display: flex;
-  height: calc(100vh - 72px);
+  height: 100vh;
   flex-direction: column;
   justify-content: end;
 }
